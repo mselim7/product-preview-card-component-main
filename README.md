@@ -21,7 +21,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-QEX7elYeLh)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-QEX7elYeLh)
 - Live Site URL: [live site URL](https://mselim7.github.io/product-preview-card-component-main/)
 
 ## My process
@@ -41,5 +41,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Website - [Mahmoud Selim](https://www.your-site.com)
+- LinkedIn - [Mahmoud Selim](https://www.linkedin.com/in/mahmoud-selim-7801a6216/)
 - Frontend Mentor - [@mselim7](https://www.frontendmentor.io/profile/mselim7)
