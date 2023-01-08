@@ -7,23 +7,23 @@
   <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-
+  <link rel="stylesheet" href="style.css">
   <title>Frontend Mentor | Product preview card component</title>
 
 
 </head>
 
 <body>
-  <link rel="stylesheet" href="style.css">
-  <div class="bigcontainer">
+
+  <main class="bigcontainer">
     <div>
       <img class="image" src="images/image-product-desktop.jpg" alt="product">
     </div>
 
     <div class="content">
-      <div class="preview">
+      <p class="preview">
         PERFUME
-      </div>
+      </p>
 
       <div class="heading">
         Gabrielle Essence Eau De Parfum
@@ -43,10 +43,12 @@
           $169.99
         </div>
       </div>
-      <button class="btn"><img class="img-btn" src="/images/icon-cart.svg"> Add to
-        Cart</button>
+      <button class="btn">
+        <img class="img-btn" alt="cart-icon" src="/images/icon-cart.svg"> Add to
+        Cart
+      </button>
     </div>
-  </div>
+  </main>
 
   <div class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
