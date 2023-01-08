@@ -21,7 +21,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-QEX7elYeLh)
 - Live Site URL: [live site URL](https://mselim7.github.io/product-preview-card-component-main/)
 
 ## My process
