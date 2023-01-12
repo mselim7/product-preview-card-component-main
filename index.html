@@ -9,51 +9,52 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" href="style.css">
   <title>Frontend Mentor | Product preview card component</title>
-
-
 </head>
 
 <body>
-
   <main class="bigcontainer">
-    <div>
-      <img class="image" src="images/image-product-desktop.jpg" alt="product">
-    </div>
-
-    <div class="content">
-      <p class="preview">
-        PERFUME
-      </p>
-
-      <div class="heading">
-        Gabrielle Essence Eau De Parfum
+    <div class="container">
+      <div>
+        <picture>
+          <img class="image" src="./images/image-product-desktop.jpg" alt="product">
+        </picture>
       </div>
 
-      <div class="info">
-        A floral, solar and voluptuous interpretation composed by Olivier Polge,
-        Perfumer-Creator for the House of CHANEL.
-      </div>
-      <div class="price-container">
-        <div>
-          <p class="price">
-            $149.99
+      <div class="content">
+        <p class="preview">
+          PERFUME
+        </p>
+
+        <h1 class="heading">
+          Gabrielle Essence Eau De Parfum
+        </h1>
+
+        <p class="info">
+          A floral, solar and voluptuous interpretation composed by Olivier Polge,
+          Perfumer-Creator for the House of CHANEL.
+        </p>
+        <div class="price-container">
+          <div>
+            <p class="price">
+              $149.99
+            </p>
+          </div>
+          <p class="before-sale">
+            $169.99
           </p>
         </div>
-        <div class="before-sale">
-          $169.99
-        </div>
+        <button class="btn">
+          <img class="img-btn" alt="cart-icon" src="/images/icon-cart.svg"> Add to
+          Cart
+        </button>
       </div>
-      <button class="btn">
-        <img class="img-btn" alt="cart-icon" src="/images/icon-cart.svg"> Add to
-        Cart
-      </button>
     </div>
   </main>
 
-  <div class="attribution">
+  <footer class="attribution">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
     Coded by <a href="https://github.com/mselim7">Mahmoud Selim</a>.
-  </div>
+  </footer>
 </body>
 
 </html>
