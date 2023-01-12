@@ -33,7 +33,7 @@ body {
   border-radius: 0.5em;
   justify-content: stretch;
 }
-.image {
+.image1 {
   width: 20em;
   vertical-align: middle;
   border-radius: 0.5em 0em 0em 0.5em;
@@ -81,6 +81,9 @@ body {
   align-items: center;
   gap: 25px;
 }
+.image2 {
+  display: none;
+}
 .btn {
   border-style: none;
   border-radius: 7px;
@@ -110,13 +113,18 @@ body {
     flex-direction: column;
     align-items: center;
   }
+
   .content {
     flex-direction: column;
     align-items: center;
   }
-  .image {
+  .image2 {
+    display: block;
     width: 20em;
     border-radius: 0.5em 0.5em 0em 0em;
+  }
+  .image1 {
+    display: none;
   }
   .heading {
     padding: 0%;
